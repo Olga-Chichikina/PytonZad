@@ -55,4 +55,3 @@ res=[1,1,1]
 left=LogSum(res)
 right=LogProiz(res) 
 print ('   ', left , '           ',  right )
-
