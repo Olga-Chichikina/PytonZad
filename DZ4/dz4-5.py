@@ -48,4 +48,5 @@ if kof != 0:
 st = st + '=0'
 print (st)
 
+with open ('5.txt', 'w') as f: f.write(st)
 
